@@ -1,2 +1,2 @@
-Hola GitHub desde mi repositorio local.
+Texto cambiado en GitHub.
 Línea añadida desde GitHub.
