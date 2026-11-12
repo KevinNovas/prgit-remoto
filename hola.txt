@@ -1,2 +1,3 @@
 Texto cambiado en GitHub.
 Línea añadida desde GitHub.
+Texto cambiado en mi ordenador local.
